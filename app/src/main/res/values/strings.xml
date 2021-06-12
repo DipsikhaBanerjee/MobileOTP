@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile_otp</string>
+    <string-array name="lang_array">Language
+        <item>English</item>
+        <item>Bengali</item>
+        <item>Hindi</item>
+        <item>Urdu</item>
+    </string-array>
+</resources>
